@@ -1,4 +1,4 @@
-# Python Sözdizimi Dokümantasyonu
+# Python Sözdizimi Kılavuzu
 
 Bu depo, Python programlama dilinin sözdizimini (syntax) açıklayan kapsamlı bir dokümantasyon içermektedir. Doküman, Python'a yeni başlayanlar veya sözdizimini tazelemek isteyenler için temel konuları kapsamaktadır.
 
